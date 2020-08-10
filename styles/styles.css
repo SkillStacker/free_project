@@ -1,0 +1,20 @@
+.top_container {
+    height: 50%;
+    margin: 0 auto;
+}
+
+.bottom_image {
+    position: relative;
+}
+
+.background_image{
+    height: 50%;
+    width: 100vw;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+}
+
+body {
+    background-color: hsl(229, 57%, 11%);
+    }
